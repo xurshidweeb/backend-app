@@ -1,0 +1,23 @@
+{
+  "name": "dars",
+  "version": "1.0.0",
+  "description": "yoq",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "backend"
+  ],
+  "author": "egoist",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.10",
+    "tailwindcss": "^4.1.13"
+  }
+}
